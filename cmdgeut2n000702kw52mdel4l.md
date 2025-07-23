@@ -1,0 +1,15 @@
+---
+title: "Groovin’ Up Your Database Tests"
+datePublished: Thu Sep 04 2008 16:02:33 GMT+0000 (Coordinated Universal Time)
+cuid: cmdgeut2n000702kw52mdel4l
+slug: groovin-up-your-database-tests-5022b0b879c7
+
+---
+
+While TDD proclaims the gospel of fine grained tests and a healthy dose of mock objects, at some point, interaction with a database becomes inevitable. Luckily, there is [DbUnit](http://www.dbunit.org) to assist us. DbUnit is a fantastic framework which allows for painless setup of database data sets, ensuring repeatable, self contained unit tests. However, there are already [plenty](http://www.dbunit.org/howto.html) [of](http://www.onjava.com/pub/a/onjava/2004/01/21/dbunit.html) [tutorials](http://www.oreillynet.com/onjava/blog/2005/10/dbunit_made_easy.html) on the subject. Instead, what I want to talk about is the dark side of dbunit… xml.
+
+Using dbunit on any reasonably sized project ends up with an explosion of xml data set files, even if care is taken to factor out common data sets and reuse them when possible. For the longest time this seemed an unfortunate but necessary evil of using such an amazingly useful library, but that was before I attended the Northeast [No Fluff Just Stuff](http://www.nofluffjuststuff.com) in April. Before that point I had been interested in Groovy and was looking for places to add it to our code base (actually snuck it into a script that ran in the build) but I hadn’t really pondered the possibilities it provided. However, NFJS was over flowing with talks and general love for Groovy. Somewhere between the Groovy unit testing and the Groovy MOP talks it dawned on me. Why not inline the xml using a Groovy builder?!
+
+Groovy has this fantastic feature called [builders](http://groovy.codehaus.org/Builders) which allows for very compact syntax to generate any sort of markup (html, xml, java swing, etc). Of course the one we want to focus on is the [xml builder](http://groovy.codehaus.org/Creating+XML+using+Groovy%27s+MarkupBuilder). By simply changing the file extension from .java to .groovy on the unit test we are already half way there. After using Groovy’s syntax for creating xml we simply call .toString() on the underlying writer, wrap it in a new [StringReader](http://java.sun.com/javase/6/docs/api/java/io/StringReader.html)() and then pass create a new [FlatXmlDataSet](http://www.dbunit.org/apidocs/org/dbunit/dataset/xml/FlatXmlDataSet.html)() with the reader as the only constructor argument.
+
+If you are using [Ant](http://ant.apache.org/) for your build you can simply wire up the [groovyc](http://groovy.codehaus.org/The+groovyc+Ant+Task) task to compile all of your groovy tests and then call [junit](http://ant.apache.org/manual/OptionalTasks/junit.html) on the .class files. If you want to get this working in Eclipse, best of luck, I was able to kinda get it working under windows xp but now that I have switched to os x the groovy plugin screams bloody murder with 64-bit java under os x in Eclipse.
