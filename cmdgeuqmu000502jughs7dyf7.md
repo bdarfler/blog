@@ -1,0 +1,23 @@
+---
+title: "Software Development is not Just Coding"
+datePublished: Mon Jun 06 2011 13:58:50 GMT+0000 (Coordinated Universal Time)
+cuid: cmdgeuqmu000502jughs7dyf7
+slug: software-development-is-not-just-coding-acc8d65b55aa
+
+---
+
+![Coding](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302186736/e3f466f6-0795-41c4-b348-6e3e3227512f.jpeg)
+
+Throughout my career as a startup software developer I have constantly come across fellow developers who seem to have a confused concept of our common profession. Specifically, they believe coding to be the single activity which comprises software development. Now its not hard to see how this misconception comes about. Too frequently developers are interrupted by frivolous meetings causing a backlash against anything that hints at time away from the desk. Moreover, at the end of the day, the top priority is getting features out the door and any time spent not coding smells of time lost. However, this narrow view of software development is holding us back and cramping our productivity. Specifically, there are three realms in which we need to spend more time up front so we can run faster over all.
+
+#### Quality assurance and the rise of unit tests
+
+I have yet to meet a startup that had enough resources for a QA team and rightly so. The rise of unit test and continuous integration tools throws into doubt the benefit of a dedicated QA team in all but the most extreme cases. However, I still see far too many developers who pay lip service to their value and then, in the name of speed, proceed to code without any. What they are missing is the insane productivity gains to be found in having a suit of tests running against every checkin. Being able to refactor and hack away without needing weeks of subsequent manual testing or months of sleepless nights fixing live bugs is something that is missed by many, particularly in the startup world, and is a huge drain on productivity.
+
+#### Ops becomes DevOps
+
+More recently we are beginning to see the influence of tools effecting the operations side as well. These days, through the power of [Amazon Web Services](http://aws.amazon.com/), [Rackspace](http://www.rackspace.com/index.php), and others, developers no longer need to rely on in house operations for their hardware needs. However, operations provided more services than simply assembling servers and connecting them to a network. Developers are now in the position where they must take on the responsibility of deploying and monitoring their software. Fortunately, hardware is something no startup can run without so, unlike QA, understanding the necessity of AWS or Rackspace is a no brainer. Unfortunately, understanding the need to spend time setting up monitoring and automating deployment is still a work in progress. Too often clients and customers are the first ones to discover a service outage and deploying more servers takes days and not hours. The seemingly never ending march of minor crises which is operations can destroy productivity if some judicious work and planning is not done upfront.
+
+#### What are we doing and we will we get there?
+
+Finally we come to the most important and also the most contentious issue, planning. Many developers approach any sort of planning with apprehension if not outright disgust. However, these are the same developers that end up taking days if not weeks longer to launch a product or wrap up a milestone because there was not enough coordination and thought ahead of time to plan the multitude of steps that goes into such an event. At a higher level I have seen whole companies spin while different developers over engineer and over refine products based on vague requirements causing a jump in coding “productivity” due to less meetings and yet a serious drop in output as nothing is delivered and what is delivered is inevitably not what anyone wanted. If we want to step up our game and get things done we need to stop shying away from all process and being adopting the right processes. There are any number of options ([SCRUM](http://en.wikipedia.org/wiki/Scrum_%28development%29), [Lean](http://en.wikipedia.org/wiki/Lean_Startup), [Kanban](http://en.wikipedia.org/wiki/Kanban), etc.) to learn and borrow from. Make your own process. Start with the simplest thing that works. Add (or remove!) when something isn’t working. Whatever it might be we need to move beyond the “all process is evil” mentality. Yes there will be meetings but you will shock yourself at how much faster you are in the end.
