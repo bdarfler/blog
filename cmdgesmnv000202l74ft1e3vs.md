@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753302088507/9470e83
 
 ---
 
-*This is one part of a multi-part series on* [*how I get things done*](https://bdarfler.medium.com/how-i-get-things-done-ac3e229e4463)*.*
+*This is one part of a multi-part series on* [*how I get things done*](https://bdarfler.hashnode.dev/how-i-get-things-done-ac3e229e4463)*.*
 
 I’ve already covered my [analog](https://bdarfler.medium.com/my-analog-productivity-system-87ba02418904) and [digital](https://bdarfler.medium.com/my-digital-productivity-system-449e0ec8b5c2) productivity tools in this series but these tools are only one piece of the puzzle. We must pair them with routines for preparation and reflection to get the most value out of them.
 
@@ -29,7 +29,7 @@ An evening reflection is a the bookend to a morning review. This is a newer prac
 
 The evening habit I’m building is a [5-year journal](https://www.apartmenttherapy.com/five-year-journal-review-37136849). While there are several journals you can buy in this format I decided to build my own using the same notebooks I use for my analog productivity system.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302086859/e83c6a71-b956-4ae3-bcfe-d07b45f2d168.jpeg)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302086859/e83c6a71-b956-4ae3-bcfe-d07b45f2d168.jpeg align="left")
 
 Every evening that I sit myself down I capture a few reflections about the day and one thing I’m grateful for. The low commitment of a few lines and the promise of seeing the same day in my life over many years speaks to me. The few times I’ve had a previous entry to review have been lovely. I find that a few minutes of reflection pushes back against the constant pressure to “do”, regardless of the contents of the reflection.
 
