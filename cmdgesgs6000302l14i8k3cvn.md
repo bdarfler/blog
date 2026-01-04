@@ -17,6 +17,8 @@ My most recent iteration has served me for about four years, and while there is 
 
 For easier consumption (and writing), this will be a multi-part series:
 
-*   [My Analogue Productivity System](https://bdarfler.medium.com/my-analog-productivity-system-87ba02418904) ([Redux](https://bdarfler.medium.com/my-analog-productivity-system-for-2023-redux-2dc7a2914ba7))
-*   [My Digital Productivity System](https://bdarfler.medium.com/my-digital-productivity-system-449e0ec8b5c2)
-*   [My Productivity System Routines](https://bdarfler.medium.com/my-productivity-system-routines-for-2023-5268253f86f4)
+* [My Analogue Productivity System](https://bdarfler.hashnode.dev/my-analog-productivity-system-87ba02418904) ([Redux](https://bdarfler.hashnode.dev/my-analog-productivity-system-for-2023-redux-2dc7a2914ba7))
+    
+* [My Digital Productivity System](https://bdarfler.hashnode.dev/my-digital-productivity-system-449e0ec8b5c2)
+    
+* [My Productivity System Routines](https://bdarfler.hashnode.dev/my-productivity-system-routines-for-2023-5268253f86f4)
