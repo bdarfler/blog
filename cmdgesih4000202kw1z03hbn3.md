@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753304280816/06f2112
 
 ---
 
-*This is one part of a multi-part series on* [*how I get things done*](https://bdarfler.medium.com/how-i-get-things-done-ac3e229e4463)*. This system is evolved further in* [*My Analog Productivity System for 2023 Redux*](https://bdarfler.medium.com/my-analog-productivity-system-for-2023-redux-2dc7a2914ba7)*.*
+*This is one part of a multi-part series on* [*how I get things done*](https://bdarfler.hashnode.dev/how-i-get-things-done-ac3e229e4463)*. This system is evolved further in* [*My Analog Productivity System for 2023 Redux*](https://bdarfler.hashnode.dev/my-analog-productivity-system-for-2023-redux-2dc7a2914ba7)*.*
 
 I have always loved pen and paper. I was the kid that got excited about back-to-school shopping, pouring over the pens and journals for the year. And I am still the guy who ducks into a stationery store as I walk by. So it’s no wonder that the core of my productivity system is analog.
 
