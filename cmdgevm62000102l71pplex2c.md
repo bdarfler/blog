@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753302227517/7b4baa2
 
 ---
 
-*This is one part of a multi-part series on* [*how I get things done*](https://bdarfler.medium.com/how-i-get-things-done-ac3e229e4463)*.*
+*This is one part of a multi-part series on* [*how I get things done*](https://bdarfler.hashnode.dev/how-i-get-things-done-ac3e229e4463)*.*
 
 While I have always loved [pen and paper](https://bdarfler.medium.com/my-analog-productivity-system-87ba02418904) there are a few areas where digital tools bring a unique value; scheduling and documents.
 
@@ -33,7 +33,7 @@ My tool of choice for the first three use cases is Google reminders. With the Go
 
 ### Documents
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302222746/156b52cf-9274-4d4f-b67d-82d9f093d4c8.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302222746/156b52cf-9274-4d4f-b67d-82d9f093d4c8.png align="left")
 
 My earliest attempts at digital document management were beautiful, bespoke, hand-crafted folder structures. The organizational compulsions took great joy in finding just the right taxonomy to bring order to the chaos. As the volume of documents grew, it became clear that tending to my documents was a net negative on my productivity. That is when I came across [Tiago Forte’s PARA approach](https://fortelabs.com/blog/para/) to managing digital documents. I was skeptical at first, I so loved the structure I had built, but after a trial run, I knew I was never going back.
 
@@ -49,17 +49,17 @@ The PARA system organizes documents based on their actionability rather than the
 
 In each document product I use (Dropbox, GDrive, Quip, etc.) I have these five top-level folders keeping a very consistent and familiar look and feel wherever I am.
 
-0 Inbox   
-1 Projects   
-2 Areas   
-3 Resources   
+0 Inbox  
+1 Projects  
+2 Areas  
+3 Resources  
 4 Archive
 
 You’ll notice I’ve added one more folder named **Inbox**. This is a convenient dumping ground for automatic capture. To the extent possible, I try to automate capturing any files that cross my eyes. If I download a file on my phone [Autosync](https://metactrl.com/) will automatically add it here. If I scan something using [SwiftScan](https://swiftscan.app/) it will end up here. And if someone sends me an email attachment [Zapier will send it here](https://zapier.com/apps/gmail/integrations/google-drive/192/save-new-gmail-attachments-to-google-drive). I review these files weekly and while I discard 80% of them it makes keeping the valuable 20% mindlessly easy. Having that project file from that email you received 6 months ago at your fingertips has saved my butt more than a few times.
 
 ### Meetings
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302224691/9eb2613a-6743-4373-8a52-c3c8258736b5.jpeg)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302224691/9eb2613a-6743-4373-8a52-c3c8258736b5.jpeg align="left")
 
 Meetings are where scheduling and documents cross over. The reason for this is almost every meeting I attend has an associated shared document.
 
@@ -71,7 +71,7 @@ Google Calendar is my tool of choice here. Others swear by flashy calendar apps 
 
 ### Ubiquitous Capture
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302225924/3c24030e-7963-4d32-aa2a-a2aaf01173c8.jpeg)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753302225924/3c24030e-7963-4d32-aa2a-a2aaf01173c8.jpeg align="left")
 
 Finally, there is one more minor but valuable component of my digital productivity system; the ability to capture an idea or task at any time wherever I am. Before smartphones, I was rather proud to wander around with a small notepad and a pen wherever I went but those days are unfortunately behind me. The reality is I do always have my phone in my pocket and I’d rather keep my daily carry to an absolute minimum.
 
